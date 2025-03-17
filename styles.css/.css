@@ -1,0 +1,21 @@
+<style>
+    body {
+        margin: 1;
+        font-family: Arial, sans-serif;
+    }
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #333;
+        color: white;
+        padding: 10px 20px;
+    }
+    .logo {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    .nav-links a:hover {
+        color: #ff6347; /*korostusväri linkin päällä*/
+    }
+</style>
